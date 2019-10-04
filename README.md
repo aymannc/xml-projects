@@ -40,7 +40,4 @@ sum(//sea/area) div (sum(//sea/area)+sum(//continent/area))
 ```
 concat(//lake[area=max(//lake/area)]/name, ' ' ,max(//lake/area))
 ```
-###9-Quelle est la riviere qui traverse le plus grand nombre de pays, lesquels
-```
 
-```
